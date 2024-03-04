@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
     name: "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! - Hajimete wa Zenbu Kimi ga Ii by Koe Ni Naranaiyo",
-    videoId: "https://nl.catbox.video/06idf7.webm",
+    videoId: "https://ladist1.catbox.video/rqtynv.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -11,7 +11,7 @@ export const animeEndings = [
   },
   {
     name: "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord - LOVE or HATE? by Mayu Maeshima",
-    videoId: "https://nl.catbox.video/mgrfuu.webm",
+    videoId: "https://ladist1.catbox.video/s2ilbw.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -21,7 +21,7 @@ export const animeEndings = [
   },
   {
     name: "Blue Exorcist: Shimane Illuminati Saga - Eye's Sentry by UVERworld",
-    videoId: "https://nl.catbox.video/svmsva.webm",
+    videoId: "https://ladist1.catbox.video/g7muyp.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -31,7 +31,7 @@ export const animeEndings = [
   },
   {
     name: "The Dangers in My Heart Season 2 - Boku wa... by Atarayo",
-    videoId: "https://nl.catbox.video/3ne824.webm",
+    videoId: "https://ladist1.catbox.video/ooyrim.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -41,7 +41,7 @@ export const animeEndings = [
   },
   {
     name: "Bucchigiri?! - Sesame by Kroi",
-    videoId: "https://nl.catbox.video/x39qt6.webm",
+    videoId: "https://ladist1.catbox.video/rc6cl3.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -51,7 +51,7 @@ export const animeEndings = [
   },
   {
     name: "Cardfight!! Vanguard Divinez - Kirifuda by V.W.P",
-    videoId: "https://nl.catbox.video/hjpf0u.webm",
+    videoId: "https://ladist1.catbox.video/l4e98p.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -61,7 +61,7 @@ export const animeEndings = [
   },
   {
     name: "The Wrong Way to Use Healing Magic - Cure by waterweed",
-    videoId: "https://nl.catbox.video/bfsvou.webm",
+    videoId: "https://ladist1.catbox.video/5vm5oj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -71,7 +71,7 @@ export const animeEndings = [
   },
   {
     name: "Hokkaido Gals Are Super Adorable! - Namaramenkoi Gal by Masayoshi Ooishi",
-    videoId: "https://nl.catbox.video/rarysa.webm",
+    videoId: "https://ladist1.catbox.video/6ptuch.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -81,7 +81,7 @@ export const animeEndings = [
   },
   {
     name: "Duel Masters Win: Duel Wars - Tatakai ga Kieta Hi by SAD originals.",
-    videoId: "https://nl.catbox.video/kmwv38.webm",
+    videoId: "https://ladist1.catbox.video/49w7ck.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -91,7 +91,7 @@ export const animeEndings = [
   },
   {
     name: "Delicious in Dungeon - Sleep Walking Orchestra by BUMP OF CHICKEN",
-    videoId: "https://nl.catbox.video/xmuzrt.webm",
+    videoId: "https://ladist1.catbox.video/eqv35c.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -101,7 +101,7 @@ export const animeEndings = [
   },
   {
     name: "Doctor Elise: The Royal Lady with the Lamp - believer by Yui Ishikawa",
-    videoId: "https://nl.catbox.video/y4bh0h.webm",
+    videoId: "https://ladist1.catbox.video/d9isro.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -111,7 +111,7 @@ export const animeEndings = [
   },
   {
     name: "Delusional Monthly Magazine - Overscientific! by Gekkan Mousou Kagaku Henshuu-bu",
-    videoId: "https://nl.catbox.video/n36npq.webm",
+    videoId: "https://ladist1.catbox.video/b63q5l.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -121,7 +121,7 @@ export const animeEndings = [
   },
   {
     name: "High Card Season 2 - Showdown by FIVE NEW OLD",
-    videoId: "https://nl.catbox.video/kw8h0s.webm",
+    videoId: "https://ladist1.catbox.video/b01zn0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -131,7 +131,7 @@ export const animeEndings = [
   },
   {
     name: "The Fire Hunter Season 2 - Hikarakka by Cocco",
-    videoId: "https://nl.catbox.video/55f5t3.webm",
+    videoId: "https://ladist1.catbox.video/ex55cn.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -141,7 +141,7 @@ export const animeEndings = [
   },
   {
     name: "Tis Time for \"Torture,\" Princess - Massakasa Magic! by shallm",
-    videoId: "https://nl.catbox.video/qb1kf4.webm",
+    videoId: "https://ladist1.catbox.video/u5deof.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -151,7 +151,7 @@ export const animeEndings = [
   },
   {
     name: "Fluffy Paradise - Cotton Days by Sizuk feat. Kotoha",
-    videoId: "https://nl.catbox.video/xztt2e.webm",
+    videoId: "https://ladist1.catbox.video/uhabf2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -161,7 +161,7 @@ export const animeEndings = [
   },
   {
     name: "Ishura - Shura ni Otoshite by sajou no hana",
-    videoId: "https://nl.catbox.video/teit6z.webm",
+    videoId: "https://ladist1.catbox.video/7yosi0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -171,7 +171,7 @@ export const animeEndings = [
   },
   {
     name: "Bottom-Tier Character Tomozaki 2nd Stage - Easy? Hard? Shikashite Susume! by DIALOGUE+",
-    videoId: "https://nl.catbox.video/hlyqyk.webm",
+    videoId: "https://ladist1.catbox.video/p4ew6y.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -181,7 +181,7 @@ export const animeEndings = [
   },
   {
     name: "Tales of Wedding Rings - Lover's Eye by Sizuk feat. AYAME(from AliA)",
-    videoId: "https://nl.catbox.video/rgjy57.webm",
+    videoId: "https://ladist1.catbox.video/o8jnwj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -191,7 +191,7 @@ export const animeEndings = [
   },
   {
     name: "Kingdom 5th Season - Douka by DeNeel",
-    videoId: "https://nl.catbox.video/8270dr.webm",
+    videoId: "https://ladist1.catbox.video/7owun2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -201,7 +201,7 @@ export const animeEndings = [
   },
   {
     name: "The Apothecary Diaries - Ambivalent by Uru",
-    videoId: "https://nl.catbox.video/86jz91.webm",
+    videoId: "https://ladist1.catbox.video/r6nidy.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -211,7 +211,7 @@ export const animeEndings = [
   },
   {
     name: "Mr. Villain's Day Off - Yuuho by Ivudot",
-    videoId: "https://nl.catbox.video/rkzihe.webm",
+    videoId: "https://ladist1.catbox.video/pzbsnt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -221,7 +221,7 @@ export const animeEndings = [
   },
   {
     name: "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Another Birthday by Shunichi Toki",
-    videoId: "https://nl.catbox.video/8rhhde.webm",
+    videoId: "https://ladist1.catbox.video/8gi8gi.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -231,7 +231,7 @@ export const animeEndings = [
   },
   {
     name: "Gushing Over Magical Girls - My dream girls by NACHERRY",
-    videoId: "https://nl.catbox.video/8ehypc.webm",
+    videoId: "https://ladist1.catbox.video/6kkdyr.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -241,7 +241,7 @@ export const animeEndings = [
   },
   {
     name: "The Witch and the Beast - Soumonka by Sokoninaru",
-    videoId: "https://nl.catbox.video/g3srj4.webm",
+    videoId: "https://ladist1.catbox.video/wy5j85.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -251,7 +251,7 @@ export const animeEndings = [
   },
   {
     name: "Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc - Bling-Bang-Bang-Born by Creepy Nuts",
-    videoId: "https://nl.catbox.video/7yzf44.webm",
+    videoId: "https://ladist1.catbox.video/lo15lm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -261,7 +261,7 @@ export const animeEndings = [
   },
   {
     name: "Chained Soldier - Yume no Ito by Akari Kitou",
-    videoId: "https://nl.catbox.video/a67giv.webm",
+    videoId: "https://ladist1.catbox.video/kwffpc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -271,7 +271,7 @@ export const animeEndings = [
   },
   {
     name: "Metallic Rouge - Rouge by YU-KA",
-    videoId: "https://nl.catbox.video/ub78vk.webm",
+    videoId: "https://ladist1.catbox.video/3zengw.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -281,7 +281,7 @@ export const animeEndings = [
   },
   {
     name: "The Demon Prince of Momochi House - Hoozuki by Yoh Kamiyama",
-    videoId: "https://nl.catbox.video/gmr86r.webm",
+    videoId: "https://ladist1.catbox.video/y3b97u.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -291,7 +291,7 @@ export const animeEndings = [
   },
   {
     name: "The Seven Deadly Sins: Four Knights of the Apocalypse - Your Key by JO1",
-    videoId: "https://nl.catbox.video/0nxnrm.webm",
+    videoId: "https://ladist1.catbox.video/8dzphh.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -301,7 +301,7 @@ export const animeEndings = [
   },
   {
     name: "The Unwanted Undead Adventurer - IMMORTAL by JUVENILE",
-    videoId: "https://nl.catbox.video/gy9yef.webm",
+    videoId: "https://ladist1.catbox.video/tt0hqf.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -311,7 +311,7 @@ export const animeEndings = [
   },
   {
     name: "One Piece - Uuuuus! by Hiroshi Kitadani",
-    videoId: "https://nl.catbox.video/fsfc2w.webm",
+    videoId: "https://ladist1.catbox.video/y2jlz4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -321,7 +321,7 @@ export const animeEndings = [
   },
   {
     name: "Solo Leveling - LEveL by SawanoHiroyuki[nZk]:TOMORROW X TOGETHER",
-    videoId: "https://nl.catbox.video/fldq9b.webm",
+    videoId: "https://ladist1.catbox.video/dphon3.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -331,7 +331,7 @@ export const animeEndings = [
   },
   {
     name: "The Foolish Angel Dances with the Devil - Otowa by Taiyou to Odore Tsukiyo ni Utae",
-    videoId: "https://nl.catbox.video/np0x20.webm",
+    videoId: "https://ladist1.catbox.video/ln50ks.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -341,7 +341,7 @@ export const animeEndings = [
   },
   {
     name: "Pon no Michi - Ponpopopon by Kana Nakada feat. Pon no Michi All Stars",
-    videoId: "https://nl.catbox.video/g0pfu4.webm",
+    videoId: "https://ladist1.catbox.video/vwrfk2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -351,7 +351,7 @@ export const animeEndings = [
   },
   {
     name: "Ragna Crimson - Kannousei Liberation by saji",
-    videoId: "https://nl.catbox.video/28mrjv.webm",
+    videoId: "https://ladist1.catbox.video/ajpmsj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -361,7 +361,7 @@ export const animeEndings = [
   },
   {
     name: "The Weakest Tamer Began a Journey to Pick Up Trash - Hate no Nai Tabi by Aina Suzuki",
-    videoId: "https://nl.catbox.video/d50ykx.webm",
+    videoId: "https://ladist1.catbox.video/2h64st.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -371,7 +371,7 @@ export const animeEndings = [
   },
   {
     name: "The Strongest Tank's Labyrinth Raids - Brave by Ireisu",
-    videoId: "https://nl.catbox.video/k9p4xy.webm",
+    videoId: "https://ladist1.catbox.video/cphnwc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -381,7 +381,7 @@ export const animeEndings = [
   },
   {
     name: "Sasaki and Peeps - FLY by MADKID",
-    videoId: "https://nl.catbox.video/varjhs.webm",
+    videoId: "https://ladist1.catbox.video/3mq41z.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -391,7 +391,7 @@ export const animeEndings = [
   },
   {
     name: "Sengoku Youko - HIBANA by MindaRyn",
-    videoId: "https://nl.catbox.video/x6otxz.webm",
+    videoId: "https://ladist1.catbox.video/m43zbb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -401,7 +401,7 @@ export const animeEndings = [
   },
   {
     name: "Shaman King Flowers - Turn the World by Nana Mizuki",
-    videoId: "https://nl.catbox.video/vfbxil.webm",
+    videoId: "https://ladist1.catbox.video/vmeubi.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -411,7 +411,7 @@ export const animeEndings = [
   },
   {
     name: "Shangri-La Frontier - Danger Danger by FZMZ feat. icy",
-    videoId: "https://nl.catbox.video/1kme2x.webm",
+    videoId: "https://ladist1.catbox.video/w5uanv.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -421,7 +421,7 @@ export const animeEndings = [
   },
   {
     name: "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season 2 - routine life by Yui Nishio",
-    videoId: "https://nl.catbox.video/4id553.webm",
+    videoId: "https://ladist1.catbox.video/fz3vce.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -431,7 +431,7 @@ export const animeEndings = [
   },
   {
     name: "Snack Basue - Uraomote Aquarium by otonari feat. RIRIKO, Ryohei Sataka",
-    videoId: "https://nl.catbox.video/cpnq6j.webm",
+    videoId: "https://ladist1.catbox.video/li937q.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -441,7 +441,7 @@ export const animeEndings = [
   },
   {
     name: "My Instant Death Ability is Overpowered - Killer Bars by Hilcrhyme",
-    videoId: "https://nl.catbox.video/bwfw03.webm",
+    videoId: "https://ladist1.catbox.video/3147qs.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -451,7 +451,7 @@ export const animeEndings = [
   },
   {
     name: "Synduality: Noir 2nd Season - Aire by ARCANA PROJECT",
-    videoId: "https://nl.catbox.video/84ocw5.webm",
+    videoId: "https://ladist1.catbox.video/xd4hj0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -461,7 +461,7 @@ export const animeEndings = [
   },
   {
     name: "Tsukimichi: Moonlit Fantasy Season 2 - Utopia by Keina Suda",
-    videoId: "https://nl.catbox.video/p168kb.web",
+    videoId: "https://ladist1.catbox.video/gmipr6.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -471,7 +471,7 @@ export const animeEndings = [
   },
   {
     name: "Undead Unluck - Love Call by Shiyui",
-    videoId: "https://nl.catbox.video/elz5dw.webm",
+    videoId: "https://ladist1.catbox.video/iydeju.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -481,7 +481,7 @@ export const animeEndings = [
   },
   {
     name: "Urusei Yatsura (2022) 2nd Season - Lock On by MAISONdes feat. Hashimero, Megurimeguru",
-    videoId: "https://nl.catbox.video/p3l7c2.webm",
+    videoId: "https://ladist1.catbox.video/2ds4od.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -491,7 +491,7 @@ export const animeEndings = [
   },
   {
     name: "Wonderful Precure! - Wonderful Precure! evolution!! by Chihaya Yoshitake",
-    videoId: "https://nl.catbox.video/xjspn4.webm",
+    videoId: "https://ladist1.catbox.video/t4jf4r.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -501,7 +501,7 @@ export const animeEndings = [
   },
   {
     name: "X Anime: Enjou Bokumetsu! Mahou Shoujo Aiko - Enjou Bokumetsu! Mahou Shoujo Aiko by Aglio Olio e Peperoncino\u00d7Solidbeats",
-    videoId: "https://nl.catbox.moe/8ooift.mp4",
+    videoId: "https://files.catbox.moe/8ooift.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -511,7 +511,7 @@ export const animeEndings = [
   },
   {
     name: "Classroom of the Elite Season 3 - Minor Piece by ZAQ",
-    videoId: "https://nl.catbox.video/f6f85o.webm",
+    videoId: "https://ladist1.catbox.video/6w08or.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -521,7 +521,7 @@ export const animeEndings = [
   },
   {
     name: "A Sign of Affection - Yuki no Ne by Novelbright",
-    videoId: "https://nl.catbox.video/d9db1h.webm",
+    videoId: "https://ladist1.catbox.video/wfyeha.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -531,7 +531,7 @@ export const animeEndings = [
   },
   {
     name: "Brave Bang Bravern - BaBang to Suizan! Bang Bravern by Kenichi Suzumura",
-    videoId: "https://nl.catbox.video/shsorj.webm",
+    videoId: "https://ladist1.catbox.video/xn64l0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
