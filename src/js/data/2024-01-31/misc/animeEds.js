@@ -5,7 +5,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -15,7 +15,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -25,7 +25,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -35,7 +35,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -45,7 +45,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -55,7 +55,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -65,7 +65,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -75,7 +75,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -85,7 +85,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 4"
+        "OP"
       ]
     }
   },
@@ -95,7 +95,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -105,7 +105,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -115,7 +115,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -125,7 +125,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -135,7 +135,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -145,7 +145,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -155,7 +155,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -165,7 +165,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -175,7 +175,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -185,7 +185,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -195,7 +195,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -205,7 +205,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -215,7 +215,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -225,7 +225,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -235,7 +235,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -245,7 +245,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -255,7 +255,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -265,7 +265,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -275,7 +275,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -285,7 +285,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -295,7 +295,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -305,7 +305,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -315,7 +315,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 26"
+        "OP"
       ]
     }
   },
@@ -325,7 +325,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -335,7 +335,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -345,7 +345,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -355,7 +355,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -365,7 +365,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -375,7 +375,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -385,7 +385,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -395,7 +395,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -405,7 +405,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -415,7 +415,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -425,7 +425,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -435,7 +435,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -445,7 +445,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -455,7 +455,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -465,7 +465,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -475,7 +475,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -485,7 +485,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -495,7 +495,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -505,7 +505,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -515,7 +515,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -525,7 +525,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -535,7 +535,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -545,7 +545,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -555,7 +555,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -565,7 +565,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -575,7 +575,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   }
