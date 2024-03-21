@@ -150,7 +150,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "eX-Driver: Nina & Rei Danger Zone (2002 april) - \"TARGET\" by MILK",
+    name: "eX-Driver: Nina & Rei Danger Zone  - \"TARGET\" by MILK",
     videoId: "https://ladist1.catbox.video/wdh8ie.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
@@ -420,7 +420,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Rahxephon2 - \"Hemisphere\" by Maaya Sakamoto",
+    name: "Rahxephon2 - Hemisphere by Maaya Sakamoto",
     videoId: "https://ladist1.catbox.video/jhexhu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
