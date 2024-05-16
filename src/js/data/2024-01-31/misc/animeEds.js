@@ -1,7 +1,57 @@
 export const animeEndings = [
   {
-    name: ".hack//Sign1 - \"fake wings\" by Emily Bindiger",
-    videoId: "https://ladist1.catbox.video/mguzyz.webm",
+    name: "Ashita no Nadja - \"Que Sera Sera\" by Ami Koshimizu",
+    videoId: "https://ladist1.catbox.video/mwtbtc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Battle Programmer Shirase1 - \"Pure enough\" by Yuki Matsuura",
+    videoId: "https://ladist1.catbox.video/6pecdy.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Battle Programmer Shirase2 - \"suddenly\" by Naomi Amagata",
+    videoId: "https://ladist1.catbox.video/2oz65n.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Chrono Crusade1 - \"Sayonara Solitaire\" by Saeko Chiba",
+    videoId: "https://ladist1.catbox.video/qvk33x.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Chrono Crusade2 - \"Tsubasa wa Pleasure Line\" by Minami Kuribayashi",
+    videoId: "https://ladist1.catbox.video/e2yq15.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Dear Boys - \"PAMELA\" by MATT LAND",
+    videoId: "https://ladist1.catbox.video/1k7y3v.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -10,28 +60,8 @@ export const animeEndings = [
     }
   },
   {
-    name: ".hack//Sign2 - \"Yasashii Yoake\" by See-Saw",
-    videoId: "https://ladist1.catbox.video/rgfgad.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Ai Yori Aoshi - \"Na mo Shirenu Hana\" by the Indigo",
-    videoId: "https://ladist1.catbox.video/pbpitw.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Baby Baachan - \"Everybody~Chizu no Nai Tabi\" by Honoka Fujino",
-    videoId: "https://ladist1.catbox.video/hevjvw.webm",
+    name: "Di Gi Charat Nyo - Heartbeat by \"Pri\u00e8re\"",
+    videoId: "https://ladist1.catbox.video/8iidj4.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -40,8 +70,28 @@ export const animeEndings = [
     }
   },
   {
-    name: "Bakuten Shoot Beyblade 2002 - \"OFF THE CHAIN\" by TOSS & TURN",
-    videoId: "https://ladist1.catbox.video/5zahi3.webm",
+    name: "F-Zero Falcon Densetsu - \"Resolution\" by AiM",
+    videoId: "https://ladist1.catbox.video/1t3xmb.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Full Metal Panic? Fumoffu1 - \"Kimi ni Fuku Kaze\" by Mikuni Shimokawa",
+    videoId: "https://ladist1.catbox.video/9jbz49.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Full Metal Panic? Fumoffu2 - \"Sore ga, Ai Deshou\" by Mikuni Shimokawa",
+    videoId: "https://ladist1.catbox.video/jg7mrt.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -50,8 +100,58 @@ export const animeEndings = [
     }
   },
   {
-    name: "Bakutou Sengen Daigunder - \"GET A VICTORY\" by Masaaki Endoh",
-    videoId: "https://ladist1.catbox.video/2d9883.webm",
+    name: "Futatsu no Spica - Venus Say by Buzy",
+    videoId: "https://ladist1.catbox.video/uzzy8m.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Generation of Chaos III: Toki no Fuuin - \"Wing\" by Sae",
+    videoId: "https://ladist1.catbox.video/pkslic.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Hunter x Hunter: Greed Island - \"Pray\" by Wish*",
+    videoId: "https://ladist1.catbox.video/4tg71c.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ikkitousen1 - \"Drivin' Through The Night\" by move",
+    videoId: "https://nl.catbox.video/qj2rty.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ikkitousen2 - \"Let me be with you\" by Shela",
+    videoId: "https://files.catbox.moe/8olxu8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Interstella 5555 - \"One More Time\" by Daft Punk",
+    videoId: "https://ladist1.catbox.video/fqqrxk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -60,8 +160,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Barom One - \"Ki\u30fbMi\u30fbDa\u30fbKe\" by DASEIN",
-    videoId: "https://ladist1.catbox.video/hn2ajc.webm",
+    name: "Kaleido Star1 - \"Tattoo Kiss\" by r.o.r/s",
+    videoId: "https://ladist1.catbox.video/5c4gy1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -70,8 +170,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Beyblade The Movie: Fierce Battle! - \"Victoria\" by Dynamite SHU",
-    videoId: "https://ladist1.catbox.video/xsbsqw.webm",
+    name: "Kaleido Star2 - \"Yakusoku no Basho e\" by Chihiro Yonekura",
+    videoId: "https://ladist1.catbox.video/7bs7bp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -80,28 +180,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Captain Tsubasa: Road to 2002 - \"BREAK OFF!!\" by DASEIN",
-    videoId: "https://ladist1.catbox.video/4nz63a.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Catman - \"It's Over\" by The Planet Smashers",
-    videoId: "https://ladist1.catbox.video/czklsm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Chobits - \"Let Me Be With You\" by ROUND TABLE featuring Nino",
-    videoId: "https://ladist1.catbox.video/e1b477.webm",
+    name: "Kimi ga Nozomu Eien1 - \"Precious Memories\" by Minami Kuribayashi",
+    videoId: "https://ladist1.catbox.video/1cy0w7.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -110,8 +190,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Choujuushin Gravion - \"WISH\" by YURIA",
-    videoId: "https://ladist1.catbox.video/twrg4j.webm",
+    name: "Kimi ga Nozomu Eien2 - \"Hoshizora no Waltz\" by Minami Kuribayashi",
+    videoId: "https://ladist1.catbox.video/quqtfh.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -120,8 +200,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Cyborg 009: The Cyborg Soldier - \"I do\" by Fayray",
-    videoId: "https://ladist1.catbox.video/2cz9ia.webm",
+    name: "Kimi ga Nozomu Eien3 - \"Rumbling hearts\" by Minami Kuribayashi",
+    videoId: "https://ladist1.catbox.video/da67ql.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -130,38 +210,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Dorei Ichiba1 - \"Inori no Toki\" by MELL",
-    videoId: "https://files.catbox.moe/grpvp3.mp4",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Dorei Ichiba2 - \"To lose in amber\" by Eiko Shimamiya",
-    videoId: "https://files.catbox.moe/b3c2z6.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "eX-Driver: Nina & Rei Danger Zone  - \"TARGET\" by MILK",
-    videoId: "https://ladist1.catbox.video/wdh8ie.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Full Metal Panic! - \"tomorrow\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/3ngrsr.webm",
+    name: "Kino no Tabi - \"all the way\" by Mikuni Shimokawa",
+    videoId: "https://ladist1.catbox.video/pk83lg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -170,8 +220,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Full Moon o Sagashite1 - \"New Future\" by Changin' My Life",
-    videoId: "https://ladist1.catbox.video/li5lbf.webm",
+    name: "Kochira Katsushika-ku Kameari Kouenmae Hashutsujo - \"Hai, Irasshai\" by NICEGUY-Jin",
+    videoId: "https://ladist1.catbox.video/l43pz0.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -180,18 +230,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Full Moon o Sagashite2 - \"ETERNAL SNOW\" by Changin' My Life",
-    videoId: "https://ladist1.catbox.video/tmf3or.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Ghost in the Shell: Stand Alone Complex1 - \"inner universe\" by Origa",
-    videoId: "https://ladist1.catbox.video/zyqioh.webm",
+    name: "Maburaho - \"Koi no Mahou\" by ICHIKO",
+    videoId: "https://ladist1.catbox.video/70zlnb.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -200,8 +240,208 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ghost in the Shell: Stand Alone Complex2 - \"stamina rose\" by Gabriela Robin",
-    videoId: "https://files.catbox.moe/buhzy9.webm",
+    name: "Matantei Loki Ragnarok - \"Believe in Heaven\" by Miki Shinichirou",
+    videoId: "https://ladist1.catbox.video/70zlnb.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Mazinkaiser: Shitou! Ankoku Daishougun - \"The Gate of the Hell\" by JAM Project featuring Yoshiki Fukuyama",
+    videoId: "https://ladist1.catbox.video/drrl2i.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Memories Off 2nd - \"Usual place\" by tiaraway",
+    videoId: "https://ladist1.catbox.video/nyfj3x.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Mizu-iro1 - \"Sora no Tsuzuki\" by Hiromi Satou",
+    videoId: "https://ladist1.catbox.video/r6s8p3.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mizu-iro2 - \"Yasashisa no Hajimaru Basho\" by Hiromi Satou",
+    videoId: "https://nl.catbox.video/me36qc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Mousou Kagaku Series Wandaba Style - \"The IJIN-DEN Tensai no Housoku\" by Mix JUICE",
+    videoId: "https://ladist1.catbox.video/dfhtps.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto1 - \"Kanashimi o Yasashisa ni\" by little by little",
+    videoId: "https://ladist1.catbox.video/en8l1p.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Naruto2 - \"Haruka Kanata\" by ASIAN KUNG-FU GENERATION",
+    videoId: "https://ladist1.catbox.video/6uutr8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Omoikkiri Kagaku Adventure Sou Nanda! - \"Umi to Tsuki no Hikari\" by New man Co.,Ltd.\r\n",
+    videoId: "https://ladist1.catbox.video/a53bez.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Onegai Twins1 - \"Second Flight\" by KOTOKO & Hiromi Satou",
+    videoId: "https://nl.catbox.video/ywkgng.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Onegai Twins2 - \"Asu e no Namida\" by Mami Kawada",
+    videoId: "https://ladist1.catbox.video/80rmx7.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Parasite Dolls - \"Get On the Beat\" by Michaelson",
+    videoId: "https://ladist1.catbox.video/itw9me.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Planetes - \"Dive in the Sky\" by Mikio Sakai",
+    videoId: "https://ladist1.catbox.video/u2pt8t.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi - \"Chiisaki Mono\" by Asuca Hayashi",
+    videoId: "https://ladist1.catbox.video/irdz2p.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "R.O.D -THE TV- - \"Moments in the Sun\" by kazami with Home Grown",
+    videoId: "https://ladist1.catbox.video/0rf578.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "RahXephon: Tagen Hensoukyoku ED - \"tune the rainbow\" by Maaya Sakamoto",
+    videoId: "https://nl.catbox.video/9cskmn.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Scrapped Princess - \"Little Wing\" by JAM Project featuring Masami Okui",
+    videoId: "https://ladist1.catbox.video/dmpcwz.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Texhnolyze - \"GUARDIAN ANGEL(XAVIER'S EDIT)\" by JUNO REACTOR",
+    videoId: "https://ladist1.catbox.video/j2mvov.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Triangle Heart: Sweet Songs Forever - \"Trust You're Truth ~Ashita o Mamoru Yakusoku~\" by KOTOKO",
+    videoId: "https://ladist1.catbox.video/yr6zvr.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "UFO Princess Walk\u00fcre: Juunigatsu no Yasoukyoku - \"Meguriai\" by Melocure",
+    videoId: "https://ladist1.catbox.video/6u66jp.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Wolf's Rain - \"cloud 9\" by Maaya Sakamoto",
+    videoId: "https://ladist1.catbox.video/id3nhk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -210,308 +450,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Gibomai - \"sensitive\" by KOTOKO",
-    videoId: "https://files.catbox.moe/3a11q4.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Guilstein - \"BIO BLOOD SOCIETY\" by NICOTINE",
-    videoId: "https://ladist1.catbox.video/f7jpj9.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Hack Liminality - \"Kimi ga Ita Monogatari\" by See-Saw",
-    videoId: "https://ladist1.catbox.video/imm085.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Hoshi no Koe - \"THROUGH THE YEARS AND FAR AWAY\" by Low",
-    videoId: "https://ladist1.catbox.video/9js6kl.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Hungry Heart: Wild Striker1 - \"tell tell Bouzu\" by KOKIA",
-    videoId: "https://ladist1.catbox.video/45k0fl.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Hungry Heart: Wild Striker2 - \"2nd STAGE\" by Kids Alive",
-    videoId: "https://ladist1.catbox.video/s2aeo4.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "I'LL/CKBC - \"Migite\" by ELLEGARDEN",
-    videoId: "https://ladist1.catbox.video/hsb0ds.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "InuYasha Movie 2: Kagami no Naka no Mugenjou - \"Yura Yura\" by Every Little Thing",
-    videoId: "https://ladist1.catbox.video/0typgk.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Kanon1 - \"Kaze no Tadoritsuku Basho\" by Ayana",
-    videoId: "https://ladist1.catbox.video/32l8qm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Kanon2 - \"Last regrets\" by Ayana",
-    videoId: "https://ladist1.catbox.video/iolbnq.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "INS"
-      ]
-    }
-  },
-  {
-    name: "Kiddy Grade - \"Mirai no Kioku\" by YUKA",
-    videoId: "https://ladist1.catbox.video/p6w3rq.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Kidou Senshi Gundam SEED1 - \"Anna ni Issho Datta no ni\" by See-Saw",
-    videoId: "https://ladist1.catbox.video/zqs1u3.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Kidou Senshi Gundam SEED2 - \"INVOKE\" by T.M.Revolution",
-    videoId: "https://ladist1.catbox.video/2sb46r.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Mahoromatic: Motto Utsukushii Mono - \"So\u30fbLe\u30fbI\u30fbL\" by Ayako Kawasumi",
-    videoId: "https://ladist1.catbox.video/4owel0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Onegai\u2606Teacher1 - \"Shooting Star\" by KOTOKO",
-    videoId: "https://ladist1.catbox.video/yxl1hn.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Onegai\u2606Teacher2 - \"LOVE A RIDDLE\" by KOTOKO",
-    videoId: "https://ladist1.catbox.video/cf827y.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari - \"close to you\" by Reica",
-    videoId: "https://ladist1.catbox.video/m6xjqh.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Piroppo - \"Tommy Febulatte, Macaron.\" by Tommy february\u2076",
-    videoId: "https://ladist1.catbox.video/q1pqv8.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Pocket Monsters: Advanced Generation Advance - \"Advance Adventure\" by GARDEN",
-    videoId: "https://ladist1.catbox.video/e588dy.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Pok\u00e9mon: Heroes - The Movie - \"Hitoribocchi ja Nai\" by coba & Kazufumi Miyazawa",
-    videoId: "https://ladist1.catbox.video/ivplwf.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Rahxephon1 - \"Yume no Tamago\" by Ichiko Hashimoto & Mayumi Hashimoto",
-    videoId: "https://ladist1.catbox.video/aozwtr.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Rahxephon2 - Hemisphere by Maaya Sakamoto",
-    videoId: "https://ladist1.catbox.video/jhexhu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Seijun Kango Gakuin - \"I pray to stop my cry\" by KOTOKO",
-    videoId: "https://files.catbox.moe/gkeudm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Shaman King1 - \"Tamashii Kasanete\" by Yuuko Satou",
-    videoId: "https://ladist1.catbox.video/ucbfnu.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Shaman king2 - \"Hana Hoshi Sora\" by Nana Mizuki",
-    videoId: "https://ladist1.catbox.video/3xvxq0.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "INS"
-      ]
-    }
-  },
-  {
-    name: "Sister Princess: Re Pure1 - \"Maboroshi\" by can/goo",
-    videoId: "https://ladist1.catbox.video/u0r4m2.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Sister Princess: Re Pure2 - \"Mamoritai Hito ga Ite\" by Ritsuko Okazaki",
-    videoId: "https://ladist1.catbox.video/hfyl2x.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Tokyo Underground - \"Kakusei Toshi\" by Akino Arai",
-    videoId: "https://ladist1.catbox.video/bo6okj.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "UFO Princess Valkyrie - \"Agape\" by Melocure",
-    videoId: "https://ladist1.catbox.video/wsgii1.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "INS"
-      ]
-    }
-  },
-  {
-    name: "Wild 7 Another: Bouryaku Unga - \"TRY AGAIN\" by Asami Katsura",
-    videoId: "https://ladist1.catbox.video/i0l3vm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Witch Hunter Robin - \"Shell\" by Bana",
-    videoId: "https://ladist1.catbox.video/c6p67m.webm",
+    name: "Yami to Boushi to Hon no Tabibito - \"Hitomi no Naka no Meikyuu\" by Aiko Kayo",
+    videoId: "https://ladist1.catbox.video/p1hqz8.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
