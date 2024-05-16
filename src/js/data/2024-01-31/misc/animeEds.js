@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
     name: "Ashita no Nadja - \"Que Sera Sera\" by Ami Koshimizu",
-    videoId: "https://ladist1.catbox.video/mwtbtc.webm",
+    videoId: "https://ladist1.catbox.video/kbhkep.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -11,7 +11,7 @@ export const animeEndings = [
   },
   {
     name: "Battle Programmer Shirase1 - \"Pure enough\" by Yuki Matsuura",
-    videoId: "https://ladist1.catbox.video/6pecdy.webm",
+    videoId: "https://ladist1.catbox.video/htydks.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -21,7 +21,7 @@ export const animeEndings = [
   },
   {
     name: "Battle Programmer Shirase2 - \"suddenly\" by Naomi Amagata",
-    videoId: "https://ladist1.catbox.video/2oz65n.webm",
+    videoId: "https://ladist1.catbox.video/tefjjf.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -31,7 +31,7 @@ export const animeEndings = [
   },
   {
     name: "Chrono Crusade1 - \"Sayonara Solitaire\" by Saeko Chiba",
-    videoId: "https://ladist1.catbox.video/qvk33x.webm",
+    videoId: "https://ladist1.catbox.video/x8eyp8.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -41,7 +41,7 @@ export const animeEndings = [
   },
   {
     name: "Chrono Crusade2 - \"Tsubasa wa Pleasure Line\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/e2yq15.webm",
+    videoId: "https://ladist1.catbox.video/i70q4c.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -51,7 +51,7 @@ export const animeEndings = [
   },
   {
     name: "Dear Boys - \"PAMELA\" by MATT LAND",
-    videoId: "https://ladist1.catbox.video/1k7y3v.webm",
+    videoId: "https://ladist1.catbox.video/k4atov.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -61,7 +61,7 @@ export const animeEndings = [
   },
   {
     name: "Di Gi Charat Nyo - Heartbeat by \"Pri\u00e8re\"",
-    videoId: "https://ladist1.catbox.video/8iidj4.webm",
+    videoId: "https://ladist1.catbox.video/id9qsq.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -71,7 +71,7 @@ export const animeEndings = [
   },
   {
     name: "F-Zero Falcon Densetsu - \"Resolution\" by AiM",
-    videoId: "https://ladist1.catbox.video/1t3xmb.webm",
+    videoId: "https://ladist1.catbox.video/h31iz3.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -81,7 +81,7 @@ export const animeEndings = [
   },
   {
     name: "Full Metal Panic? Fumoffu1 - \"Kimi ni Fuku Kaze\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/9jbz49.webm",
+    videoId: "https://ladist1.catbox.video/kymv6v.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -91,7 +91,7 @@ export const animeEndings = [
   },
   {
     name: "Full Metal Panic? Fumoffu2 - \"Sore ga, Ai Deshou\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/jg7mrt.webm",
+    videoId: "https://ladist1.catbox.video/d4hzxc.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -101,7 +101,7 @@ export const animeEndings = [
   },
   {
     name: "Futatsu no Spica - Venus Say by Buzy",
-    videoId: "https://ladist1.catbox.video/uzzy8m.webm",
+    videoId: "https://ladist1.catbox.video/ks7yfq.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -111,7 +111,7 @@ export const animeEndings = [
   },
   {
     name: "Generation of Chaos III: Toki no Fuuin - \"Wing\" by Sae",
-    videoId: "https://ladist1.catbox.video/pkslic.webm",
+    videoId: "https://ladist1.catbox.video/oz3was.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -121,7 +121,7 @@ export const animeEndings = [
   },
   {
     name: "Hunter x Hunter: Greed Island - \"Pray\" by Wish*",
-    videoId: "https://ladist1.catbox.video/4tg71c.webm",
+    videoId: "https://ladist1.catbox.video/h96uw4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -131,7 +131,7 @@ export const animeEndings = [
   },
   {
     name: "Ikkitousen1 - \"Drivin' Through The Night\" by move",
-    videoId: "https://nl.catbox.video/qj2rty.webm",
+    videoId: "https://nl.catbox.video/bflnya.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -141,7 +141,7 @@ export const animeEndings = [
   },
   {
     name: "Ikkitousen2 - \"Let me be with you\" by Shela",
-    videoId: "https://files.catbox.moe/8olxu8.webm",
+    videoId: "https://files.catbox.moe/67axwo.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -151,7 +151,7 @@ export const animeEndings = [
   },
   {
     name: "Interstella 5555 - \"One More Time\" by Daft Punk",
-    videoId: "https://ladist1.catbox.video/fqqrxk.webm",
+    videoId: "https://ladist1.catbox.video/v6qzct.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -161,7 +161,7 @@ export const animeEndings = [
   },
   {
     name: "Kaleido Star1 - \"Tattoo Kiss\" by r.o.r/s",
-    videoId: "https://ladist1.catbox.video/5c4gy1.webm",
+    videoId: "https://ladist1.catbox.video/y7h25u.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -171,7 +171,7 @@ export const animeEndings = [
   },
   {
     name: "Kaleido Star2 - \"Yakusoku no Basho e\" by Chihiro Yonekura",
-    videoId: "https://ladist1.catbox.video/7bs7bp.webm",
+    videoId: "https://ladist1.catbox.video/rdubji.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -181,7 +181,7 @@ export const animeEndings = [
   },
   {
     name: "Kimi ga Nozomu Eien1 - \"Precious Memories\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/1cy0w7.webm",
+    videoId: "https://ladist1.catbox.video/pbq7l3.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -191,7 +191,7 @@ export const animeEndings = [
   },
   {
     name: "Kimi ga Nozomu Eien2 - \"Hoshizora no Waltz\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/quqtfh.webm",
+    videoId: "https://ladist1.catbox.video/wq2vd4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -201,7 +201,7 @@ export const animeEndings = [
   },
   {
     name: "Kimi ga Nozomu Eien3 - \"Rumbling hearts\" by Minami Kuribayashi",
-    videoId: "https://ladist1.catbox.video/da67ql.webm",
+    videoId: "https://ladist1.catbox.video/y2kmgt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -211,7 +211,7 @@ export const animeEndings = [
   },
   {
     name: "Kino no Tabi - \"all the way\" by Mikuni Shimokawa",
-    videoId: "https://ladist1.catbox.video/pk83lg.webm",
+    videoId: "https://ladist1.catbox.video/3tzkba.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -221,7 +221,7 @@ export const animeEndings = [
   },
   {
     name: "Kochira Katsushika-ku Kameari Kouenmae Hashutsujo - \"Hai, Irasshai\" by NICEGUY-Jin",
-    videoId: "https://ladist1.catbox.video/l43pz0.webm",
+    videoId: "https://ladist1.catbox.video/593lc7.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -231,7 +231,7 @@ export const animeEndings = [
   },
   {
     name: "Maburaho - \"Koi no Mahou\" by ICHIKO",
-    videoId: "https://ladist1.catbox.video/70zlnb.webm",
+    videoId: "https://ladist1.catbox.video/iats05.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -241,7 +241,7 @@ export const animeEndings = [
   },
   {
     name: "Matantei Loki Ragnarok - \"Believe in Heaven\" by Miki Shinichirou",
-    videoId: "https://ladist1.catbox.video/70zlnb.webm",
+    videoId: "https://ladist1.catbox.video/sl6qgo.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -251,7 +251,7 @@ export const animeEndings = [
   },
   {
     name: "Mazinkaiser: Shitou! Ankoku Daishougun - \"The Gate of the Hell\" by JAM Project featuring Yoshiki Fukuyama",
-    videoId: "https://ladist1.catbox.video/drrl2i.webm",
+    videoId: "https://ladist1.catbox.video/l3ct1i.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -261,7 +261,7 @@ export const animeEndings = [
   },
   {
     name: "Memories Off 2nd - \"Usual place\" by tiaraway",
-    videoId: "https://ladist1.catbox.video/nyfj3x.webm",
+    videoId: "https://ladist1.catbox.video/5ds5mk.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -271,7 +271,7 @@ export const animeEndings = [
   },
   {
     name: "Mizu-iro1 - \"Sora no Tsuzuki\" by Hiromi Satou",
-    videoId: "https://ladist1.catbox.video/r6s8p3.webm",
+    videoId: "https://ladist1.catbox.video/4t85tr.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -281,7 +281,7 @@ export const animeEndings = [
   },
   {
     name: "Mizu-iro2 - \"Yasashisa no Hajimaru Basho\" by Hiromi Satou",
-    videoId: "https://nl.catbox.video/me36qc.webm",
+    videoId: "https://nl.catbox.video/cnsfwu.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -291,7 +291,7 @@ export const animeEndings = [
   },
   {
     name: "Mousou Kagaku Series Wandaba Style - \"The IJIN-DEN Tensai no Housoku\" by Mix JUICE",
-    videoId: "https://ladist1.catbox.video/dfhtps.webm",
+    videoId: "https://ladist1.catbox.video/0f4fai.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -301,7 +301,7 @@ export const animeEndings = [
   },
   {
     name: "Naruto1 - \"Kanashimi o Yasashisa ni\" by little by little",
-    videoId: "https://ladist1.catbox.video/en8l1p.webm",
+    videoId: "https://ladist1.catbox.video/r6ihvt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -311,7 +311,7 @@ export const animeEndings = [
   },
   {
     name: "Naruto2 - \"Haruka Kanata\" by ASIAN KUNG-FU GENERATION",
-    videoId: "https://ladist1.catbox.video/6uutr8.webm",
+    videoId: "https://ladist1.catbox.video/9q8taa.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -321,7 +321,7 @@ export const animeEndings = [
   },
   {
     name: "Omoikkiri Kagaku Adventure Sou Nanda! - \"Umi to Tsuki no Hikari\" by New man Co.,Ltd.\r\n",
-    videoId: "https://ladist1.catbox.video/a53bez.webm",
+    videoId: "https://ladist1.catbox.video/lym8ye.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -331,7 +331,7 @@ export const animeEndings = [
   },
   {
     name: "Onegai Twins1 - \"Second Flight\" by KOTOKO & Hiromi Satou",
-    videoId: "https://nl.catbox.video/ywkgng.webm",
+    videoId: "https://nl.catbox.video/dl3wqv.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -341,7 +341,7 @@ export const animeEndings = [
   },
   {
     name: "Onegai Twins2 - \"Asu e no Namida\" by Mami Kawada",
-    videoId: "https://ladist1.catbox.video/80rmx7.webm",
+    videoId: "https://ladist1.catbox.video/ykhsq9.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -351,7 +351,7 @@ export const animeEndings = [
   },
   {
     name: "Parasite Dolls - \"Get On the Beat\" by Michaelson",
-    videoId: "https://ladist1.catbox.video/itw9me.webm",
+    videoId: "https://ladist1.catbox.video/3bnf4g.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -361,7 +361,7 @@ export const animeEndings = [
   },
   {
     name: "Planetes - \"Dive in the Sky\" by Mikio Sakai",
-    videoId: "https://ladist1.catbox.video/u2pt8t.webm",
+    videoId: "https://ladist1.catbox.video/ubyh3h.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -371,7 +371,7 @@ export const animeEndings = [
   },
   {
     name: "Pokemon Movie 06: Nanayo no Negaiboshi Jirachi - \"Chiisaki Mono\" by Asuca Hayashi",
-    videoId: "https://ladist1.catbox.video/irdz2p.webm",
+    videoId: "https://ladist1.catbox.video/65hchq.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -381,7 +381,7 @@ export const animeEndings = [
   },
   {
     name: "R.O.D -THE TV- - \"Moments in the Sun\" by kazami with Home Grown",
-    videoId: "https://ladist1.catbox.video/0rf578.webm",
+    videoId: "https://ladist1.catbox.video/pyumiw.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -391,7 +391,7 @@ export const animeEndings = [
   },
   {
     name: "RahXephon: Tagen Hensoukyoku ED - \"tune the rainbow\" by Maaya Sakamoto",
-    videoId: "https://nl.catbox.video/9cskmn.webm",
+    videoId: "https://nl.catbox.video/x5lcnp.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -401,7 +401,7 @@ export const animeEndings = [
   },
   {
     name: "Scrapped Princess - \"Little Wing\" by JAM Project featuring Masami Okui",
-    videoId: "https://ladist1.catbox.video/dmpcwz.webm",
+    videoId: "https://ladist1.catbox.video/1wcppb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -411,7 +411,7 @@ export const animeEndings = [
   },
   {
     name: "Texhnolyze - \"GUARDIAN ANGEL(XAVIER'S EDIT)\" by JUNO REACTOR",
-    videoId: "https://ladist1.catbox.video/j2mvov.webm",
+    videoId: "https://ladist1.catbox.video/pb7y5l.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -421,7 +421,7 @@ export const animeEndings = [
   },
   {
     name: "Triangle Heart: Sweet Songs Forever - \"Trust You're Truth ~Ashita o Mamoru Yakusoku~\" by KOTOKO",
-    videoId: "https://ladist1.catbox.video/yr6zvr.webm",
+    videoId: "https://ladist1.catbox.video/w8zdok.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -431,7 +431,7 @@ export const animeEndings = [
   },
   {
     name: "UFO Princess Walk\u00fcre: Juunigatsu no Yasoukyoku - \"Meguriai\" by Melocure",
-    videoId: "https://ladist1.catbox.video/6u66jp.webm",
+    videoId: "https://ladist1.catbox.video/f8aphg.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -441,7 +441,7 @@ export const animeEndings = [
   },
   {
     name: "Wolf's Rain - \"cloud 9\" by Maaya Sakamoto",
-    videoId: "https://ladist1.catbox.video/id3nhk.webm",
+    videoId: "https://ladist1.catbox.video/3kn465.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -451,7 +451,7 @@ export const animeEndings = [
   },
   {
     name: "Yami to Boushi to Hon no Tabibito - \"Hitomi no Naka no Meikyuu\" by Aiko Kayo",
-    videoId: "https://ladist1.catbox.video/p1hqz8.webm",
+    videoId: "https://ladist1.catbox.video/l0mnhi.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
