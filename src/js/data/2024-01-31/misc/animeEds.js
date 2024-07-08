@@ -441,8 +441,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"You've always got me\" by Cosmograph",
-    videoId: "https://youtu.be/sChzAHIHQpQ?si=0ZevjQHmVBTQ51IK",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "sChzAHIHQpQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -451,8 +451,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"The Pilgrim\" by Cosmograph",
-    videoId: "https://youtu.be/5LkDkuFVxZ4?si=WSmLn6aFOjZ93xEu",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "5LkDkuFVxZ4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -461,8 +461,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Sweet Bite\" by Cosmograph",
-    videoId: "https://youtu.be/9OTddl8OoiE?si=t23dmjSXhsIRXuMz",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "5LkDkuFVxZ4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -471,8 +471,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Talk about luv\" by Cosmograph",
-    videoId: "https://youtu.be/RNb4bwJgNmg?si=n8b4uvtUTPzmp7K1",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "RNb4bwJgNmg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -481,8 +481,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Shadows\" by Cosmograph ft. Pernelle",
-    videoId: "https://youtu.be/3JOlYV78aqc?si=RnXILMZE1t1VSShp",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "3JOlYV78aqc",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -501,8 +501,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Oblivion\" by Cosmograph ft. Pernelle",
-    videoId: "https://youtu.be/8LVUEe5o-00?si=wtRH_5RCGiDe_CVa",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "8LVUEe5o-00",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -511,8 +511,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"in the Shadows\" by Cosmograph ft. Pernelle",
-    videoId: "https://youtu.be/mUhRUAEcGLE?si=dAFUUcOklG3kVtu5",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "mUhRUAEcGLE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -521,8 +521,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Beyond the stars\" by NieN fr. Pernelle",
-    videoId: "https://youtu.be/4u-ZsQHMUIE?si=0PP9AzsrPXKLxEq2",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "mUhRUAEcGLE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -531,8 +531,8 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Echo\" by DoubleTO fr. Pernelle",
-    videoId: "https://youtu.be/k5uWuYKYFHg?si=xhGar2Nxw613tanD",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "k5uWuYKYFHg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
