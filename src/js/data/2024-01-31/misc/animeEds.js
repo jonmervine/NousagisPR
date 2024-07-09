@@ -521,7 +521,7 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Beyond the stars\" by NieN fr. Pernelle",
-    videoId: "mUhRUAEcGLE",
+    videoId: "4u-ZsQHMUIE",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
