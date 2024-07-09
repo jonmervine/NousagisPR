@@ -1,91 +1,91 @@
 export const animeEndings = [
   {
-    name: "Goddess of Victory: Nikke1 - \"Stronghold Land Eater\" by Cosmograph",
+    name: "Goddess of Victory: Nikke01 - \"Stronghold Land Eater\" by Cosmograph",
     videoId: "lSt_6SiAUwo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke2 - \"Burn it All\" by A.MON & Springhead",
+    name: "Goddess of Victory: Nikke02 - \"Burn it All\" by A.MON & Springhead",
     videoId: "MTogyN87-L4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke3 - \"3DGE OF BULLET\" by Cosmograph",
+    name: "Goddess of Victory: Nikke03 - \"3DGE OF BULLET\" by Cosmograph",
     videoId: "M4DdR-LuodI",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke4 - \"The Harvester \" by Cosmograph",
+    name: "Goddess of Victory: Nikke04 - \"The Harvester \" by Cosmograph",
     videoId: "jdZ5DEnSanw",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke5 - \"You CAN'T STOP US\" by Cosmograph",
+    name: "Goddess of Victory: Nikke05 - \"You CAN'T STOP US\" by Cosmograph",
     videoId: "w-BhQxGk34o",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke6 - \"Ominous Cross\" by Cosmograph",
+    name: "Goddess of Victory: Nikke06 - \"Ominous Cross\" by Cosmograph",
     videoId: "UWu-GTEajok",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke7 - \"Tempest\" by Cosmograph",
+    name: "Goddess of Victory: Nikke07 - \"Tempest\" by Cosmograph",
     videoId: "GXFLqi4Bdus",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke8 - \"WE RISE\" by OYHN",
+    name: "Goddess of Victory: Nikke08 - \"WE RISE\" by OYHN",
     videoId: "LKAs-FqqCmo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke9 - \"The Collector\" by Cosmograph",
+    name: "Goddess of Victory: Nikke09 - \"The Collector\" by Cosmograph",
     videoId: "hKPYkX0Wr20",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -95,7 +95,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -105,7 +105,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -115,7 +115,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -125,7 +125,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -135,7 +135,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -145,7 +145,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -155,7 +155,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -165,7 +165,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -175,7 +175,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -185,7 +185,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -195,7 +195,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -205,7 +205,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -215,7 +215,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -225,7 +225,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -235,7 +235,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -245,7 +245,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -255,7 +255,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -265,7 +265,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -275,7 +275,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -285,7 +285,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -295,7 +295,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -305,7 +305,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -315,7 +315,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -325,7 +325,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -335,7 +335,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -345,7 +345,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -355,7 +355,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -365,7 +365,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -375,7 +375,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -385,7 +385,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -395,7 +395,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -405,7 +405,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -415,7 +415,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -425,7 +425,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -435,7 +435,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -445,7 +445,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -455,7 +455,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -465,7 +465,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -475,7 +475,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -485,7 +485,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -495,7 +495,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -505,7 +505,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -515,17 +515,17 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke53 - \"Beyond the stars\" by NieN fr. Pernelle",
+    name: "Goddess of Victory: Nikke53 - \"Beyond the stars\" by NieN ft. Pernelle",
     videoId: "4u-ZsQHMUIE",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -535,7 +535,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   },
@@ -545,7 +545,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
-        "ED"
+        " "
       ]
     }
   }
