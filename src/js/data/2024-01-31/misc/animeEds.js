@@ -461,7 +461,7 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke - \"Sweet Bite\" by Cosmograph",
-    videoId: "5LkDkuFVxZ4",
+    videoId: "uU6mwjeMCG8",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
