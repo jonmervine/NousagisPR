@@ -11,7 +11,7 @@ export const animeEndings = [
   },
   {
     name: "Goddess of Victory: Nikke02 - \"Burn it All\" by A.MON & Springhead",
-    videoId: "MTogyN87-L4",
+    videoId: "I1HnCn6mris",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
