@@ -1,8 +1,8 @@
 export const animeEndings = [
   {
-    name: "Goddess of Victory: Nikke01 - \"Stronghold Land Eater\" by Cosmograph",
-    videoId: "lSt_6SiAUwo",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Aishiteruze Baby - \"Nennen Saisai\" by Yo Hitoto",
+    videoId: "https://nl.catbox.video/fe1o6a.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -10,9 +10,29 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke02 - \"Burn it All\" by A.MON & Springhead",
-    videoId: "I1HnCn6mris",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "BECK: Mongolian Chop Squad1 - \"further shore\" by he",
+    videoId: "https://ladist1.catbox.video/nmuvzm.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "BECK: Mongolian Chop Squad2 - \"Disitegration\" by I've ~ Remix by GMS",
+    videoId: "https://ladist1.catbox.video/28ahac.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "Black Gate: Kanin no Gakuen - \"Light & Dark\" by Noriko Mitose",
+    videoId: "https://files.catbox.moe/2pjr4a.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -20,9 +40,19 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke03 - \"3DGE OF BULLET\" by Cosmograph",
-    videoId: "M4DdR-LuodI",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Black Jack - \"Gekkouka\" by Janne Da Arc",
+    videoId: "https://ladist1.catbox.video/fd74on.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Cossette no Shouzou - \"Houseki\" by Marina Inoue",
+    videoId: "https://ladist1.catbox.video/gzeqmm.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -30,9 +60,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke04 - \"The Harvester \" by Cosmograph",
-    videoId: "jdZ5DEnSanw",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Dan Doh!! - \"Believe in love\" by Bullet 77",
+    videoId: "https://files.catbox.moe/kmnd3r.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -40,9 +70,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke05 - \"You CAN'T STOP US\" by Cosmograph",
-    videoId: "w-BhQxGk34o",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Elfen Lied1 - \"be your girl\" by Chieko Kawabe",
+    videoId: "https://ladist1.catbox.video/vn9bxb.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -50,9 +80,19 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke06 - \"Ominous Cross\" by Cosmograph",
-    videoId: "UWu-GTEajok",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Elfen Lied2 - \"LILIUM\" by Kumiko Noma",
+    videoId: "https://ladist1.catbox.video/q255eo.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Fantastic Children - \"Mizu no Madoromi\" by ORIGA",
+    videoId: "https://nl.catbox.video/nlstqu.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -60,9 +100,29 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke07 - \"Tempest\" by Cosmograph",
-    videoId: "GXFLqi4Bdus",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Futari wa Precure - \"DANZEN! Futari wa Precure\" by Mayumi Gojou",
+    videoId: "https://ladist1.catbox.video/dn1xo1.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Gantz - \"Super Shooter\" by RIP SLYME",
+    videoId: "https://ladist1.catbox.video/0rnmai.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Hagane no Renkinjutsushi1 - \"Tobira no Mukou e\" by YeLLOW Generation",
+    videoId: "https://ladist1.catbox.video/jzbirv.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -70,9 +130,49 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke08 - \"WE RISE\" by OYHN",
-    videoId: "LKAs-FqqCmo",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Hagane no Renkinjutsushi2 - \"Rewrite\" by ASIAN KUNG-FU GENERATION",
+    videoId: "https://ladist1.catbox.video/bmoqko.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Hanaukyo Maid-tai: La Verite - \"Voice of heart\" by Rie Tanaka",
+    videoId: "https://ladist1.catbox.video/6pgdz5.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Initial D: Fourth Stage1 - \"DOGFIGHT\" by move",
+    videoId: "https://ladist1.catbox.video/z2tsmm.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Initial D: Fourth Stage2 - \"FOREVER YOUNG\" by SYMBOL",
+    videoId: "https://ladist1.catbox.video/432pqy.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "InuYasha the Movie 4: Fire on the Mystic Island - \"Rakuen\" by Do As Infinity",
+    videoId: "https://ladist1.catbox.video/o9m1lp.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -80,9 +180,29 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke09 - \"The Collector\" by Cosmograph",
-    videoId: "hKPYkX0Wr20",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Kannazuki no Miko1 - \"Re-sublimity\" by KOTOKO",
+    videoId: "https://ladist1.catbox.video/n9dpla.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Kannazuki no Miko2 - \"Suppuration-core-\" by KOTOKO",
+    videoId: "https://ladist1.catbox.video/5cjuqd.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "Kidou Senshi Gundam Seed Destiny - \"Reason\" by Nami Tamaki",
+    videoId: "https://ladist1.catbox.video/odx0vw.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -90,9 +210,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke10 - \"Khamsin\" by Cosmograph",
-    videoId: "bzZxYoCjvtA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Kinnikuman II Sei: Ultimate Muscle - \"Aka-iro Dance Hall\" by sui",
+    videoId: "https://ladist1.catbox.video/ffcjfe.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -100,9 +220,19 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke11 - \"DUST RIDER\" by Cosmograph",
-    videoId: "g4i-mTmWLHg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Konjiki no Gash Bell!! - \"Kimi ni Kono Koe ga Todokimasu You ni\" by Takayoshi Tanimoto",
+    videoId: "https://nl.catbox.video/pthtp1.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - \"living inside the shell\" by Steve Conte",
+    videoId: "https://ladist1.catbox.video/xltmu3.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -110,9 +240,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke12 - \"Headless Angel\" by QUEEN BEE",
-    videoId: "Nm7F2kNcALY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Kujibiki Unbalance\t - \"Kagayaki Cyalume\" by UNDER17",
+    videoId: "https://ladist1.catbox.video/723qyx.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -120,9 +250,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke13 - \"Re:CIPE FOR YOU : Reach for the stars \" by Miori Celesta",
-    videoId: "xYjNrv9z458",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Kurau: Phantom Memory - \"Moonlight\" by Yukari Katsuki",
+    videoId: "https://ladist1.catbox.video/1f1ybr.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -130,9 +260,39 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke14 - \"Lucky Night\" by Shabel Tonya",
-    videoId: "_T8INDFzDCs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Madlax - \"nowhere\" by FictionJunction YUUKA with Kaori Nishina",
+    videoId: "https://ladist1.catbox.video/lyabk2.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "Mahou Shoujo Lyrical Nanoha1 - \"innocent starter\" by Nana Mizuki",
+    videoId: "https://ladist1.catbox.video/nrk43d.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mahou Shoujo Lyrical Nanoha2 - \"Take a shot\" by Nana Mizuki",
+    videoId: "https://ladist1.catbox.video/i1jcm8.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "Major - \"Step\" by Beni Arashiro",
+    videoId: "https://ladist1.catbox.video/40zxyd.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -140,9 +300,19 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke15 - \"SATELLITES\" by AmaLee",
-    videoId: "LKa1dWH95PQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Monkey Turn - \"Kokoro ga Tomaranai\" by JEWELRY",
+    videoId: "https://ladist1.catbox.video/wqfg0h.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Mutsu Enmei Ryuu Gaiden: Shura no Toki - \"Natsuhiboshi\" by Akane Osawa",
+    videoId: "https://ladist1.catbox.video/rmiv1d.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -150,9 +320,29 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke16 - \"In Neverland\" by Pernelle",
-    videoId: "wlEfxwP_dLs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "New Getter Robo - \"SAGA\" by Masaaki Endoh",
+    videoId: "https://ladist1.catbox.video/v534ym.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "INS"
+      ]
+    }
+  },
+  {
+    name: "One Piece - \"Kokoro no Chizu\" by BOYSTYLE",
+    videoId: "https://ladist1.catbox.video/ifyi6p.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Phantom The Animation - \"I myself am hell\" by Kanako Itou",
+    videoId: "https://ladist1.catbox.video/jldfrh.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -160,9 +350,29 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke17 - \"Camellia\" by STARRYSKY",
-    videoId: "nNU83pAA9Y4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Re:Cutie Honey - \"Cutie Honey\" by Kumi Koda",
+    videoId: "https://ladist1.catbox.video/t2x8jt.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Rockman.EXE Stream - \"Be Somewhere\" by Buzy",
+    videoId: "https://ladist1.catbox.video/51e7wl.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Samurai Champloo - \"Shiki no Uta\" by MINMI",
+    videoId: "https://ladist1.catbox.video/u3o41v.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -170,9 +380,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke18 - \"The Clarion Call\" by Pernelle",
-    videoId: "W1DALeSLLus",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "SD Gundam Force - \"Kokoro Odoru\" by nobodyknows+",
+    videoId: "https://ladist1.catbox.video/xly14l.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -180,9 +390,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke19 - \"KILL THE LORD\" by Whitney Sol",
-    videoId: "RZsJ2E-ewP4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Shin Angyo Onshi - \"My Name\" by BoA",
+    videoId: "https://ladist1.catbox.video/r610mz.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -190,9 +400,49 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke20 - \"We're Never Giving Up\" by B.A.Wheeler",
-    videoId: "OcNZMW03318",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Soukyuu no Fafner: Dead Aggressor - \"Shangri-La\" by angela",
+    videoId: "https://ladist1.catbox.video/wpw3dy.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Tenkuu Danzai Skelter+Heaven - \"NAKED HEART\" by Minori Chihara",
+    videoId: "https://ladist1.catbox.video/4jd7yf.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "To Heart: Remember My Memories - \"Daisuki da yo (Into Your Heart)\" by Naomi Tanisaki",
+    videoId: "https://ladist1.catbox.video/cfcbgh.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "TWO LOVELY MAID (\u2267\u25bd\u2266) - \"Docchi mo Maid\" by Yura Naruse",
+    videoId: "https://ladist1.catbox.video/4vg69i.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Uta~Kata - \"Itsuka Tokeru Namida\" by savage genius",
+    videoId: "https://ladist1.catbox.video/hidm2x.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -200,352 +450,22 @@ export const animeEndings = [
     }
   },
   {
-    name: "Goddess of Victory: Nikke21 - \"BOOM'S DAY\" by Hunger Noma, nonebart",
-    videoId: "gD4pEQncW24",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "V.G.Neo The Animation - \"We Survive\" by KOTOKO",
+    videoId: "https://files.catbox.moe/wvhgcz.mp3 ",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "OP"
       ]
     }
   },
   {
-    name: "Goddess of Victory: Nikke22 - \"Black Stallion\" by B.A.Wheeler",
-    videoId: "claH-N-KhAQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "Zipang - \"Rashinban\" by AUDIO RULEZ",
+    videoId: "https://ladist1.catbox.video/g0ilm8.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke23 - \"Angel's Cry\" by B.A.Wheeler",
-    videoId: "1vxw7Tqv7zM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke24 - \"Daybreak\" by Cesar Pentzke",
-    videoId: "y6VXdT8m4dM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke25 - \"Hold you tight\" by AKA",
-    videoId: "NtoYJ-WUy7E",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke26 - \"Our Hometown\" by REX",
-    videoId: "rDzc2XTCbRU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke27 - \"THE RED HOOD\" by Djerv",
-    videoId: "hKHv-DuMOyo",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke28 - \"A.C.P.U.! FREEZE!\" by Cosmograph",
-    videoId: "7b0esAbfcGc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke29 - \"Summer Seaside\" by NieN",
-    videoId: "zU4hjekwh-c",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke30 - \"SO PLAYFUL\" by towana (from fh\u00e1na)",
-    videoId: "Z-oRFYVCpms",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke31 - \"Lovely Lonely Cat\" by Pernelle",
-    videoId: "S-bOBwuBRdU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke32 - \"Goddess of Victory\" by Pernelle",
-    videoId: "hK_6T-LzdbE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke33 - \"Dilemma\" by Cosmograph",
-    videoId: "gITN1RsQCPY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke34 - \"I FEEL SO ALIVE\" by Cosmograph",
-    videoId: "BoCHcKJSAgg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke35 - \"Goodbye For Now\" by Jennifer Sumire",
-    videoId: "5zK7JH6-wZA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke36 - \"The Godness Fall\" by Cosmograph",
-    videoId: "0t1pYScEXGA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke37 - \"Hero\" by Luna Goami",
-    videoId: "6JOV8GqMRJU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke38 - \"Wings of Victory\" by AJURIKA & SAK",
-    videoId: "dzB0E9_OojA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke39 - \"Universal Spice\" by seibin (ft. Shabel Tonya)",
-    videoId: "rACKBhoKGIc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke40 - \"Set Sail\" by NieN (feat. Diana Garnet)",
-    videoId: "udWagzuKEno",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke41 - \"Midnight Memories\" by Cosmograph (Feat. Chaerin)",
-    videoId: "Qi-H38mmHNY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke42 - \"TuNGSTeN\" by Hiroyuki SAWANO (feat. mizuki)",
-    videoId: "DQDs56LuKEs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke43 - \"Claymore\" by Cosmograph (feat. B.A. Wheeler)",
-    videoId: "K-_eqitkI0U",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke44 - \"Absolute Maker\" by Cosmograph (feat. Corbin)",
-    videoId: "DxfHZHgmvl4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke45 - \"You've always got me\" by Cosmograph",
-    videoId: "sChzAHIHQpQ",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke46 - \"The Pilgrim\" by Cosmograph",
-    videoId: "5LkDkuFVxZ4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke47 - \"Sweet Bite\" by Cosmograph",
-    videoId: "uU6mwjeMCG8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke48 - \"Talk about luv\" by Cosmograph",
-    videoId: "RNb4bwJgNmg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke49 - \"Shadows\" by Cosmograph ft. Pernelle",
-    videoId: "3JOlYV78aqc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke50 - \"River\" by Nauts ft. Pernelle",
-    videoId: "g004sVqoiTs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke51 - \"Oblivion\" by Cosmograph ft. Pernelle",
-    videoId: "8LVUEe5o-00",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke52 - \"in the Shadows\" by Cosmograph ft. Pernelle",
-    videoId: "mUhRUAEcGLE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke53 - \"Beyond the stars\" by NieN ft. Pernelle",
-    videoId: "4u-ZsQHMUIE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke54 - \"Echo\" by DoubleTO fr. Pernelle",
-    videoId: "k5uWuYKYFHg",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Goddess of Victory: Nikke55 - \"The Last Sight\" by DoubleTO fr. Pernelle",
-    videoId: "jRLHfy5Ayyw",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
+        "OP"
       ]
     }
   }
