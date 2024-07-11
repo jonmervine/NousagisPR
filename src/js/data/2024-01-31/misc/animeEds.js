@@ -330,12 +330,22 @@ export const animeEndings = [
     }
   },
   {
-    name: "One Piece - \"Kokoro no Chizu\" by BOYSTYLE",
+    name: "One Piece1 - \"Kokoro no Chizu\" by BOYSTYLE",
     videoId: "https://ladist1.catbox.video/ifyi6p.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "OP"
+      ]
+    }
+  },
+  {
+    name: "One Piece2 - \"Mirai Koukai\" by Tackey & Tsubasa",
+    videoId: "https://ladist1.catbox.video/h4nn0t.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
       ]
     }
   },
