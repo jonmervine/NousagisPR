@@ -120,7 +120,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Persona 5 - \"Last Surprise\" by Lyn",
+    name: "Persona 3 - \"Last Surprise\" by Lyn",
     videoId: "ZNGqBDRJgvo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
