@@ -40,8 +40,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Guilty Gear X2 - \"Holy Orders (Be Just or Be Dead)\"",
-    videoId: "rGetImTgyFA",
+    name: "Umineko no Naku Koro Ni - \"DreamEndDischarger\" by zts",
+    videoId: "zDPJuAxZaOo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -110,7 +110,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Chrono Trigger - \"Frog's Theme\" by Malcolm Robinson",
+    name: "Chrono Trigger - \"Frog's Theme\" by Yasunori Mitsuda",
     videoId: "8JADKlgXqjU",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -120,7 +120,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Persona 3 - \"Last Surprise\" by Lyn",
+    name: "Persona 5 - \"Last Surprise\" by Lyn",
     videoId: "ZNGqBDRJgvo",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -160,7 +160,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Re: LieF ~Shin'ainaru Anata e~ - \"Hotaru Murasaki\" byRe:TrymenT",
+    name: "Re: LieF ~Shin'ainaru Anata e~ - \"Re:TrymenT\" by Hotaru Murasaki",
     videoId: "cT3wbp17Ano",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -280,7 +280,7 @@ export const animeEndings = [
     }
   },
   {
-    name: "Persona 5 - \"Memories of You\" by Yumi Kawamura",
+    name: "Persona 3 - \"Memories of You\" by Yumi Kawamura",
     videoId: "JiKMzXwOH-E",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
@@ -350,8 +350,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Devil May Cry 5 - \"Devil Trigger\" by Casey Edwards feat. Ali Edwards",
-    videoId: "-WpnPSChVRQ",
+    name: "Metin 2 - \"enter the east\"",
+    videoId: "bn1YCClRF-g",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -412,6 +412,86 @@ export const animeEndings = [
   {
     name: "YS4: The Dawn of Ys - \"In The Fires of Ignition\" by Falcom",
     videoId: "rM7ocnLoG6Y",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Demons Roots - \"Blossom\" by Shade ",
+    videoId: "jd7RVLQuK14",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Final Fantasy XIII-2 - \"Full Speed Ahead\" by Naoshi Mizuta ",
+    videoId: "mTHzYWtdU_Q",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Arknights - \"Wlfmster\" by Adam Gubman feat. Shawn W. Smith",
+    videoId: "E44IRAYFadw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Epic Battle Fantasy IV - \"Van al Tag (Extended)\" by Phyrnna",
+    videoId: "vnEUb70odr4",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "MapleStory - \"Temple of Time\" by CODASOUND",
+    videoId: "6uCaEDM-Kf8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The Legend of Zelda: Majora\u2019s Mask - \"Song of Healing\" by Koji Kondo",
+    videoId: "XDX4ZwUeOok",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Payday 2 - \"Break the Rules\" by Simon Viklund",
+    videoId: "p4Z96WwZrL0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "No Straight road - \"No Straight Roads OST\"  by VS SAYU ft. Nikki Simmons",
+    videoId: "LQboZNoMd0c",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
