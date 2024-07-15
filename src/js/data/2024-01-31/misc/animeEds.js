@@ -111,7 +111,7 @@ export const animeEndings = [
   },
   {
     name: "Chrono Trigger - \"Frog's Theme\" by Yasunori Mitsuda",
-    videoId: "snl8txz5Xo0",
+    videoId: "8JADKlgXqjU",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
