@@ -498,5 +498,25 @@ export const animeEndings = [
         "ED"
       ]
     }
+  },
+  {
+    name: "Persona 4 Golden - \"I'll Face Myself\" by Atlus",
+    videoId: "aq2iJuenPg0",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Voice of Cards : The isle Dragon Roars - \"Pursuing The Dragon\" by Keiichi Okabe",
+    videoId: "dPM67cgtOZg",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
   }
 ];
