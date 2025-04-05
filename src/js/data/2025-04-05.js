@@ -1,0 +1,4 @@
+const VIDEOSOURCE = {
+    YOUTUBE: 'YOUTUBE',
+    CATBOX: 'CATBOX'
+}
