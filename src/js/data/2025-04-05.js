@@ -40,7 +40,6 @@ dataSet[dataSetVersion].characterData = [
         videoId: "d020hcWA_Wg",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
-            singer: [""]
         }
     },
     {
@@ -48,135 +47,119 @@ dataSet[dataSetVersion].characterData = [
         videoId: "tgIqecROs5M",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
+        }
+    },
+    {
+        name: "Porter Robinson - Get your wish",
+        videoId: "4SZEDBFPpgw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Kendrick Lamar - King Kunta",
+        videoId: "hRK7PVJFbS8",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Yung Lean, Bladee - Golden god",
+        videoId: "OKV0M2lEm-s",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "King Gizzard & The Lizard Wizard - Iron lung",
+        videoId: "Njk2YAgNMnE",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Bloc Party - This modern love",
+        videoId: "oZ9vPoecPZs",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Rare Americans - Brittle bones Nicky",
+        videoId: "Gtv40bOE3U4",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Paramore - Playing god",
+        videoId: "iDy2wCQYSrU",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "David Guetta, Sia - Titanium",
+        videoId: "JRfuAukYTKg",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Linkin Park - Battle symphony",
+        videoId: "D7ab595h0AU",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Fall out boys - Thnks fr th mmrs",
+        videoId: "cMY5VwfcGdU",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "KYLE & Lil Yachty - iSpy",
+        videoId: "5XK4v2fgMPU",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Tyler the Creator - See you again (alt ver)",
+        videoId: "sODAN0XvRfw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Jimi Hendrix - All along the watchtower",
+        videoId: "TLV4_xaYynY",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "CHVRCHES - Gun",
+        videoId: "ktoaj1IpTbw",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
+        }
+    },
+    {
+        name: "Isyana Sarasvati, Afgan, Rendy Pandugo - Heaven",
+        videoId: "8RVWepy4Ay4",
+        videoSource: VIDEOSOURCE.YOUTUBE,
+        opts: {
             singer: [""]
         }
     },
     {
-        name: "Get your wish",
-        videoId: "4SZEDBFPpgw",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Porter Robinson"]
-        }
-    },
-    {
-        name: "King Kunta",
-        videoId: "hRK7PVJFbS8",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Kendrick Lamar"]
-        }
-    },
-    {
-        name: "Golden god",
-        videoId: "OKV0M2lEm-s",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Yung Lean", "Bladee"]
-        }
-    },
-    {
-        name: "Iron lung",
-        videoId: "Njk2YAgNMnE",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["King Gizzard & The Lizard Wizard"]
-        }
-    },
-    {
-        name: "This modern love",
-        videoId: "oZ9vPoecPZs",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Bloc Party"]
-        }
-    },
-    {
-        name: "Brittle bones Nicky",
-        videoId: "Gtv40bOE3U4",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Rare Americans"]
-        }
-    },
-    {
-        name: "Playing god",
-        videoId: "iDy2wCQYSrU",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Paramore"]
-        }
-    },
-    {
-        name: "Titanium",
-        videoId: "JRfuAukYTKg",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["David Guetta", "Sia"]
-        }
-    },
-    {
-        name: "Battle symphony",
-        videoId: "D7ab595h0AU",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Linkin Park"]
-        }
-    },
-    {
-        name: "Thnks fr th mmrs",
-        videoId: "cMY5VwfcGdU",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Fall out boys"]
-        }
-    },
-    {
-        name: "iSpy",
-        videoId: "5XK4v2fgMPU",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["KYLE & Lil Yachty"]
-        }
-    },
-    {
-        name: "See you again (alt ver)",
-        videoId: "sODAN0XvRfw",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Tyler the Creator"]
-        }
-    },
-    {
-        name: "All along the watchtower",
-        videoId: "TLV4_xaYynY",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Jimi Hendrix"]
-        }
-    },
-    {
-        name: "Gun",
-        videoId: "ktoaj1IpTbw",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["CHVRCHES"]
-        }
-    },
-    {
-        name: "Heaven",
-        videoId: "8RVWepy4Ay4",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Isyana Sarasvati", "Afgan", "Rendy Pandugo"]
-        }
-    },
-    {
-        name: "Robot stop",
+        name: "King Gizzard & The Lizard Wizard - Robot stop",
         videoId: "9p_Si21ig7c",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
-            singer: ["King Gizzard & The Lizard Wizard"]
         }
     }
 ];
