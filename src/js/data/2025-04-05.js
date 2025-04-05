@@ -152,7 +152,6 @@ dataSet[dataSetVersion].characterData = [
         videoId: "8RVWepy4Ay4",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
-            singer: [""]
         }
     },
     {
