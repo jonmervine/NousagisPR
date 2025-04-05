@@ -36,19 +36,19 @@ dataSet[dataSetVersion].characterData = [
         opts: {}
     },
     {
-        name: "Clocks",
+        name: "Coldplay - Clocks",
         videoId: "d020hcWA_Wg",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
-            singer: ["Coldplay"]
+            singer: [""]
         }
     },
     {
-        name: "Sail",
+        name: "AWOLNATION - Sail",
         videoId: "tgIqecROs5M",
         videoSource: VIDEOSOURCE.YOUTUBE,
         opts: {
-            singer: ["AWOLNATION"]
+            singer: [""]
         }
     },
     {
