@@ -179,7 +179,7 @@ function start() {
     console.log(characterData.length);
     characterDataToSort = characterData.slice(0);
     console.log(characterDataToSort.length);
-    console.log(characterDataToSort[0];
+    console.log(characterDataToSort[0]);
 
     /** Check selected options and convert to boolean array form. */
     optTaken = [];
