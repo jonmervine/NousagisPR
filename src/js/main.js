@@ -178,6 +178,7 @@ function start() {
     /** Copy data into sorting array to filter. */
     console.log(characterData.length);
     characterDataToSort = characterData.slice(0);
+    console.log(characterDataToSort.length);
 
     /** Check selected options and convert to boolean array form. */
     optTaken = [];
