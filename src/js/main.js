@@ -176,6 +176,7 @@ function start() {
     document.querySelector('.banner.pic').style.display = 'none';
 
     /** Copy data into sorting array to filter. */
+    console.log(characterData.length);
     characterDataToSort = characterData.slice(0);
 
     /** Check selected options and convert to boolean array form. */
