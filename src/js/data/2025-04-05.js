@@ -17,36 +17,24 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
     {
-        name: "Bohemian Rhapsody",
+        name: "Queen - Bohemian Rhapsody",
         videoId: "fJ9rUzIMcZQ",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["Queen"]
-        }
+        videoSource: VIDEOSOURCE.YOUTUBE
     },
     {
-        name: "Migraine",
+        name: "twenty one pilots - Migraine",
         videoId: "pjvKYnBBEQM",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["twenty one pilots"]
-        }
+        videoSource: VIDEOSOURCE.YOUTUBE
     },
     {
-        name: "Have you ever seen the rain",
+        name: "creedence clearwater revival - Have you ever seen the rain",
         videoId: "bO28lB1uwp4",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["creedence clearwater revival"]
-        }
+        videoSource: VIDEOSOURCE.YOUTUBE
     },
     {
-        name: "Free bird",
+        name: "lynyrd skynyrd - Free bird",
         videoId: "0LwcvjNJTuM",
-        videoSource: VIDEOSOURCE.YOUTUBE,
-        opts: {
-            singer: ["lynyrd skynyrd"]
-        }
+        videoSource: VIDEOSOURCE.YOUTUBE
     },
     {
         name: "Clocks",
