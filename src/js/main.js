@@ -238,7 +238,7 @@ function start() {
             characterDataToSort = characterDataToSort.filter(char => !char.opts[opt.key]);
         }
     });
-
+    console.log(characterDataToSort.length);
     if (characterDataToSort.length < 2) {
         alert('Cannot sort with less than two characters. Please reselect.');
         return;
