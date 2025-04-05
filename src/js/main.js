@@ -176,10 +176,7 @@ function start() {
     document.querySelector('.banner.pic').style.display = 'none';
 
     /** Copy data into sorting array to filter. */
-    console.log(characterData.length);
     characterDataToSort = characterData.slice(0);
-    console.log(characterDataToSort.length);
-    console.log(characterDataToSort[0]);
 
     /** Check selected options and convert to boolean array form. */
     optTaken = [];
@@ -238,7 +235,6 @@ function start() {
             characterDataToSort = characterDataToSort.filter(char => !char.opts[opt.key]);
         }
     });
-    console.log(characterDataToSort.length);
     if (characterDataToSort.length < 2) {
         alert('Cannot sort with less than two characters. Please reselect.');
         return;
